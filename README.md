@@ -42,9 +42,12 @@ An interactive Power BI dashboard that delivers comprehensive insights into cust
 
 ## 📁 Project Structure
 
-📁 Customer-Analysis-Dashboard/
+📁 Customer-Analysis-Dashboard
+
 ├── 📄 customer_data.csv # Raw dataset including customer transactions and demographics
+
 ├── 🖼️ customer_dashboard_preview.png # Preview of the final dashboard
+
 └── 📄 README.md # Project overview and documentation
 
 
@@ -52,8 +55,7 @@ An interactive Power BI dashboard that delivers comprehensive insights into cust
 
 ## 🖼️ Dashboard Preview
 
-![Customer Analysis Dashboard Preview](customer_dashboard_preview.png)
-
+![Customer Analysis Dashboard Preview](Customer Analysis.pngpng)
 ---
 
 ## 🙋‍♀️ About Me
