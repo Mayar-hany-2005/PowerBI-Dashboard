@@ -53,7 +53,9 @@ An interactive Power BI dashboard that delivers comprehensive insights into cust
 
 ---
 ## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
+![Customer Analysis Dashboard Preview](Customer Analysis.png)
 ![Customer Analysis Dashboard Preview](customer_dashboard_preview.png)
 
 ---
