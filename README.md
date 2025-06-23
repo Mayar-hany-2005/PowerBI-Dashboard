@@ -41,8 +41,8 @@ This interactive dashboard provides a comprehensive analysis of driver performan
 
 ## 🖼️ Dashboard Preview
 
-![Driver Dashboard View 1](driver_dashboard_view1.png)  
-![Driver Dashboard View 2](driver_dashboard_view2.png)
+![Driver Dashboard View 1]((https://github.com/Mayar-hany-2005/PowerBI-Dashboard/blob/POWER-BI-2/Dashboard%20Overview%201.png)  
+![Driver Dashboard View 2](https://github.com/Mayar-hany-2005/PowerBI-Dashboard/blob/POWER-BI-2/Dashboard%20Overview%202.png)
 
 ---
 
