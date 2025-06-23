@@ -53,9 +53,9 @@ An interactive Power BI dashboard that delivers comprehensive insights into cust
 
 ---
 ## 🖼️ Dashboard Preview
-## 🖼️ Dashboard Preview
 
-![Customer Analysis Dashboard Preview](https://raw.githubusercontent.com/Mayar-Hany/Customer-Analysis-Dashboard/POWER-B-1/Customer%20Analysis.png)
+
+![Customer Analysis Dashboard Preview](https://github.com/Mayar-hany-2005/PowerBI-Dashboard/blob/POWER-BI-1/Customer%20Analysis.png)
 
 ---
 
