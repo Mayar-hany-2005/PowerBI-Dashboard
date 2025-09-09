@@ -65,5 +65,4 @@ I'm **Mayar Hany**, a Business Intelligence student with a passion for transform
 
 🔗 [LinkedIn – Mayar Hany](https://linkedin.com/in/mayar-hany-139a2a2a6)
 
-نسخ
-تحرير
+
